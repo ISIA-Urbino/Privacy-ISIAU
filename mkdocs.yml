@@ -46,9 +46,9 @@ theme:
         name: Modalità giorno
 extra:
   generator: false
-  analytics:
+  analytics: 
     provider: google
-    property: G-CQ6908H944
+    property: G-2Y73H6QJ81
     feedback:
       title: Questa pagina ti è stata utile?
       ratings:
