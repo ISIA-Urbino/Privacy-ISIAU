@@ -1,5 +1,7 @@
 site_name: Privacy ISIA U
 site_url: https://privacy.isiaurbino.net/
+site_description: Informazioni sulla privacy, GDPR, diritti degli interessati e gestione dati personali presso ISIA Urbino - Istituto Superiore per le Industrie Artistiche Urbino
+site_author: ISIA Urbino
 copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino
 nav:
     - Responsabile Privacy: index.md
@@ -46,6 +48,27 @@ theme:
         name: Modalità giorno
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/isiaurbino/
+      name: ISIA Urbino su Instagram
+  meta:
+    - name: keywords
+      content: ISIA Urbino, privacy, GDPR, protezione dati, diritti interessati, DPO, data protection, istituto design Urbino
+    - name: author
+      content: ISIA Urbino
+    - property: og:type
+      content: website
+    - property: og:title
+      content: Privacy - ISIA Urbino
+    - property: og:description
+      content: Informazioni sulla privacy e protezione dati personali presso ISIA Urbino
+    - property: og:image
+      content: https://privacy.isiaurbino.net/assets/ISIAU_logo-light.png
+    - property: og:url
+      content: https://privacy.isiaurbino.net/
+    - name: twitter:card
+      content: summary_large_image
   analytics: 
     provider: google
     property: G-2Y73H6QJ81
