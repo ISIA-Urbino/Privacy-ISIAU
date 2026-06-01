@@ -17,3 +17,4 @@ hide:
 | [Liberatoria consenso pubblicazione immagini e video per eventi spot](assets/ISIAU-Liberatoria-consenso-pubblicazione-immagini-video-eventi-spot.pdf){:target="_blank"} | 06 2025 | pdf |
 | [Informativa sul trattamento dei dati personali - Operatori economici e fornitori di beni, servizi e opere](assets/ISIAU-Informativa-operatori-economici.pdf){:target="_blank"} | 07 2025 | pdf |
 | [Informativa sul trattamento dei dati personali - Rapporti di lavoro/collaborazione](assets/ISIAU-Informativa-rapporto-lavoro.pdf){:target="_blank"} | 07 2025 | pdf |
+| [Informativa sul trattamento dei dati personali relativi alla stipula e gestione delle convenzioni per attività di tirocinio curriculare](assets/ISIAU-informativa-tirocini-curricolari.pdf){:target="_blank"} | 05 2026 | pdf |
