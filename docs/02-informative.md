@@ -19,3 +19,4 @@ hide:
 | [Informativa sul trattamento dei dati personali - Rapporti di lavoro/collaborazione](assets/ISIAU-Informativa-rapporto-lavoro.pdf){:target="_blank"} | 07 2025 | pdf |
 | [Informativa sul trattamento dei dati personali relativi alla stipula e gestione delle convenzioni per attività di tirocinio curriculare](assets/ISIAU-informativa-tirocini-curricolari.pdf){:target="_blank"} | 05 2026 | pdf |
 | [Informativa sul trattamento dei dati personali per newsletter e comunicazioni istituzionali](assets/ISIAU-Informativa-Newsletter.pdf){:target="_blank"} | 06 2026 | pdf |
+| [Informativa sulle procedure elettorali degli organi istituzionali](assets/ISIAU-Informativa_procedure_elettorali_organi.pdf){:target="_blank"} | 07 2026 | pdf |
